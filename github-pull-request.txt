@@ -2,3 +2,4 @@ GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
 Second update to the Pull Request.
+This project demonstrates how to create, review, and merge changes using a GitHub Pull Request workflow.
